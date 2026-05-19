@@ -78,6 +78,9 @@ AI debugger that finds and fixes complex bugs.
 ### [Testim](https://www.testim.io)
 AI-powered test automation and maintenance.
 
+### [agenttrace](https://github.com/luoyuctl/agenttrace)
+Local TUI for AI coding agent cost, token, latency, failure, health, and report observability.
+
 ---
 
 ## 🤖 AI Agents & Automation
